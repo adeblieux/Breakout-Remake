@@ -1,4 +1,4 @@
-﻿### Breakout Remake
+﻿# Breakout Remake
  
  ![Test](https://github.com/adeblieux/Breakout-Remake/workflows/Test/badge.svg) ![Deploy](https://github.com/adeblieux/Breakout-Remake/workflows/Deploy/badge.svg)
 
@@ -33,7 +33,7 @@
 # Without Arduino Board
 To move the ball, press the space bar. Players can use the arrow keys to move back and forth across the screen. 
 
-# With Arduino Board
+### With Arduino Board
 To move the ball, press the space bar. Players can use the Joystick to move back and forth across the screen. 
 
 ## Arduino Scematics
