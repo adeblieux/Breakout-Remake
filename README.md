@@ -39,20 +39,16 @@ To move the ball, press the space bar. Players can use the Joystick to move back
 ## Arduino Scematics
 
 ## More info
-
 Read [Wikipedia page on Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game))
 
 ## Browser compatibility
-
 Should be good in latest Firefox, Edge, Chrome, and Safari.
 Arduino capabilities are only available in Chrome!!
 
 ## Contributing
-
 Contributions are welcome! I'm happy to accept any kind of contributions, pull requests, or bug reports.
 
-### Future Developing
-
+## Future Developing
 
 ## License
 
