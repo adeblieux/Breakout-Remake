@@ -30,7 +30,7 @@
 
 ## How to move?
 
-# Without Arduino Board
+### Without Arduino Board
 To move the ball, press the space bar. Players can use the arrow keys to move back and forth across the screen. 
 
 ### With Arduino Board
