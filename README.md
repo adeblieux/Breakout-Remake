@@ -12,21 +12,18 @@
   * [Without Arduino Board](#without-arduino-board)
   * [With Arduino Board](#with-arduino-board)
 - [Arduino Schematics](#arduino-schematics)
+- [Future Developing](#future-developing)
 - [More info](#more-info)
 - [Browser compatibility](#browser-compatibility)
 - [Contributing](#contributing)
-- [Future Developing](#future-developing)
 - [License](#license)
 
 ## Project Outline 
-
 
 ## Play
 - [adeblieux.github.io/Breakout-Remake](https://adeblieux.github.io/Breakout-Remake/)
 
 ## Gameplay
-
-
 
 ## How to move?
 
