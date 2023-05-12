@@ -4,19 +4,19 @@
 
 > **Breakout** is an arcade video game developed and published by Atari, Inc in 1976. Breakout Remake is a browser game written in  Javascript with P5 and Tone.js extentions. It also has capabilities of connecting an Arduino board with a joystick and LED light attached to a breadboard.
 
-##Table of Contents
-  * [Project Outline](#project-outline)
-  * [Play](#play)
-  * [Gameplay](#gameplay)
-  * [How to move?](#how-to-move-)
-- [Without Arduino Board](#without-arduino-board)
-- [With Arduino Board](#with-arduino-board)
-  * [Arduino Schematics](#arduino-schematics)
-  * [More info](#more-info)
-  * [Browser compatibility](#browser-compatibility)
-  * [Contributing](#contributing)
-    + [Future Developing](#future-developing)
-  * [License](#license)
+## Table of Contents
+ - [Project Outline](#project-outline)
+- [Play](#play)
+- [Gameplay](#gameplay)
+- [How to move?](#how-to-move-)
+  * [Without Arduino Board](#without-arduino-board)
+  * [With Arduino Board](#with-arduino-board)
+- [Arduino Schematics](#arduino-schematics)
+- [More info](#more-info)
+- [Browser compatibility](#browser-compatibility)
+- [Contributing](#contributing)
+- [Future Developing](#future-developing)
+- [License](#license)
 
 ## Project Outline 
 
